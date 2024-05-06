@@ -15,8 +15,7 @@
 
 ### Links
 
-- Solution URL: [Solution to QR code component](https://your-solution-url.com)
-- Live Site URL: [QR Code Component](https://your-live-site-url.com)
+- Live Site URL: [QR Code Component](https://qr-code-component-sr.netlify.app/)
 
 ## My process
 
