@@ -16,8 +16,7 @@
 ### Links
 
 - Solution URL: [Solution to QR code component](https://github.com/shivalikaraj/Frontend/tree/main/qr-code-component)
-- Live Site URL: [QR Code Component](https://your-live-site-url.com)
-
+- Live Site URL: [QR Code Component](https://qr-code-component-sr.netlify.app/)
 ## My process
 
 ### Built with
