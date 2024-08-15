@@ -26,6 +26,7 @@
 - Flexbox
 
 ## Author
+
 - Frontend Mentor - [@shivalikaraj](https://www.frontendmentor.io/profile/shivalikaraj)
 - GitHub - [Shivalika Raj](https://github.com/shivalikaraj)
 
